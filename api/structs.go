@@ -54,9 +54,6 @@ type MinecraftTCPRaw struct {
 			ID   string
 		}
 	}
-	Description struct {
-		Text string
-	}
 	Favicon string
 }
 
