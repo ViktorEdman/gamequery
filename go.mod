@@ -1,6 +1,6 @@
 module github.com/ViktorEdman/gamequery
 
-require github.com/wisp-gg/gamequery v0.0.0
+require github.com/wisp-gg/gamequery v0.0.0-20211108193149-8c623c640ded
 
 go 1.22
 
